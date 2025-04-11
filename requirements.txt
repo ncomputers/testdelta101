@@ -1,0 +1,6 @@
+ccxt
+pyrebase
+python-dotenv
+websocket-client
+pycryptodome
+requests
